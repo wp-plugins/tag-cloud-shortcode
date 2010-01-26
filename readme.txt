@@ -59,3 +59,6 @@ malfunctioned if you used the shortcode in a post.
 
 = 0.1 =
 * First draft of the plugin. It's not parameterizable yet, but works.
+
+== Upgrade Notice ==
+* nothing yet.
