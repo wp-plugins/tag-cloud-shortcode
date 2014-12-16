@@ -1,9 +1,8 @@
 === Tag Cloud Shortcode ===
 Contributors: dnorman
-Donate link: http://tiny.darcynorman.net/1m
 Tags: shortcode, tags, tag, cloud, tag cloud
 Requires at least: 2.6
-Tested up to: 3.0.1
+Tested up to: 4.0.1
 Stable tag: trunk
 
 The plugin enables any page or post author to include a Tag Cloud by using a shortcode instead of hacking theme template files.
